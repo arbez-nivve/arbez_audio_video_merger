@@ -34,16 +34,6 @@ PowerShell verification command:
 ```powershell
 Get-FileHash ‘.\merge_audio_video_gui-v1.0.0-beta.1-windows-x64.exe’ -Algorithm SHA256
 ```
-```text
-Copyright © 2026 Arbez19. All rights reserved.
-
-This software may be downloaded and used free of charge by individual users.
-Without the written permission of the copyright holder, the software must not be sold, passed off as an official version, or published in a modified form
-under the original author’s name.
-
-Third-party components are subject to their respective licences.
-This software is provided ‘as is’, without any express or implied warranty.
-```
 
 # 音视频合并工具
 用于将独立音频与无声视频合并为 MP4 文件的 Windows 桌面程序。
@@ -80,14 +70,4 @@ Windows 可能显示“未知发布者”或 SmartScreen 提示。
 PowerShell 校验命令：
 ```powershell
 Get-FileHash ".\merge_audio_video_gui-v1.0.0-beta.1-windows-x64.exe" -Algorithm SHA256
-```
-```text
-Copyright © 2026 Arbez19. All rights reserved.
-
-本软件允许个人用户免费下载和使用。
-未经著作权人书面许可，不得出售、冒充官方版本或将修改后的版本
-以原作者名义发布。
-
-第三方组件适用其各自许可证。
-本软件按现状提供，不作任何明示或默示担保。
 ```
