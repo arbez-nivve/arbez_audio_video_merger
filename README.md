@@ -1,8 +1,5 @@
-# arbez_audio_video_merger
+# Arbez_audio_video_merger
 A Windows desktop tool for merging standalone audio files with silent video clips and exporting the result as an MP4 file
-# Audio and Video Merging Tool
-
-A Windows desktop programme for merging standalone audio files with silent video clips into MP4 files.
 ## System Requirements
 - Windows 10/11 (64-bit)
 - An internet connection is required when downloading FFmpeg for the first time
