@@ -43,18 +43,19 @@ This project neither encourages nor supports the unauthorised downloading, distr
 6. Click ‘Start Merging’.
 
 ## About FFmpeg
-This release does not include FFmpeg binaries.
-The programme will only download FFmpeg from the following third-party website once the user has actively clicked the download button:
+- This release does not include FFmpeg binaries.
+- The programme will only download FFmpeg from the following third-party website once the user has actively clicked the download button:
 https://www.gyan.dev/ffmpeg/builds/
-FFmpeg project:
+- FFmpeg project:
 https://ffmpeg.org/
-FFmpeg is licensed under its own separate licence. This project has no affiliation or official partnership with the FFmpeg project or
+- FFmpeg is licensed under its own separate licence.
+- This project has no affiliation or official partnership with the FFmpeg project or
 Gyan FFmpeg Builds.
 
 ## Digital Signature Information
-This beta version does not yet use a commercial code-signing certificate.
+- This beta version does not yet use a commercial code-signing certificate.
 Windows may display an ‘Unknown Publisher’ or SmartScreen warning.
-Please download only from the Releases page of this repository and verify the SHA-256 hash.
+- Please download only from the Releases page of this repository and verify the SHA-256 hash.
 Do not download repackaged versions from other websites, cloud storage services or chat groups.
 
 ## Security Verification
