@@ -1,0 +1,20 @@
+```text
+Copyright © 2026 Arbez19. All rights reserved.
+
+This software may be downloaded and used free of charge by individual users.
+Without the written permission of the copyright holder, the software must not be sold, passed off as an official version, or published in a modified form
+under the original author’s name.
+
+Third-party components are subject to their respective licences.
+This software is provided ‘as is’, without any express or implied warranty.
+```
+```text
+Copyright © 2026 Arbez19. All rights reserved.
+
+本软件允许个人用户免费下载和使用。
+未经著作权人书面许可，不得出售、冒充官方版本或将修改后的版本
+以原作者名义发布。
+
+第三方组件适用其各自许可证。
+本软件按现状提供，不作任何明示或默示担保。
+```
