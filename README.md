@@ -38,7 +38,7 @@ PowerShell verification command:
 Get-FileHash ‘.\merge_audio_video_gui-v1.0.0-beta.1-windows-x64.exe’ -Algorithm SHA256
 ```
 ```text
-Copyright © 2026 [Your name or publication name]. All rights reserved.
+Copyright © 2026 Arbez19. All rights reserved.
 
 This software may be downloaded and used free of charge by individual users.
 Without the written permission of the copyright holder, the software must not be sold, passed off as an official version, or published in a modified form
@@ -85,7 +85,7 @@ PowerShell 校验命令：
 Get-FileHash ".\merge_audio_video_gui-v1.0.0-beta.1-windows-x64.exe" -Algorithm SHA256
 ```
 ```text
-Copyright © 2026 [你的姓名或发布名称]. All rights reserved.
+Copyright © 2026 Arbez19. All rights reserved.
 
 本软件允许个人用户免费下载和使用。
 未经著作权人书面许可，不得出售、冒充官方版本或将修改后的版本
