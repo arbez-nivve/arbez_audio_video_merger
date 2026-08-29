@@ -43,18 +43,19 @@
 6. 点击“开始合并”。
 
 ## 关于 FFmpeg
-本 Release 不包含 FFmpeg 二进制。
-只有用户主动点击下载按钮后，程序才会从以下第三方网站下载：
+- 本 Release 不包含 FFmpeg 二进制。
+- 只有用户主动点击下载按钮后，程序才会从以下第三方网站下载：
 https://www.gyan.dev/ffmpeg/builds/
-FFmpeg 项目：
+- FFmpeg 项目：
 https://ffmpeg.org/
-FFmpeg 使用自己的独立许可证。本项目与 FFmpeg 项目及
+- FFmpeg 使用自己的独立许可证。
+- 本项目与 FFmpeg 项目及
 Gyan FFmpeg Builds 无隶属或官方合作关系。
 
 ## 数字签名说明
-当前测试版本尚未使用商业代码签名证书。
+- 当前测试版本尚未使用商业代码签名证书。
 Windows 可能显示“未知发布者”或 SmartScreen 提示。
-请只从本仓库的 Releases 页面下载，并核对 SHA-256。
+- 请只从本仓库的 Releases 页面下载，并核对 SHA-256。
 不要从其他网站、网盘或聊天群下载重新打包的版本。
 
 ## 安全校验
